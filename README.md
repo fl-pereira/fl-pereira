@@ -1,7 +1,7 @@
 ## ABOUT ME
 - 👋 Hi, I’m @fl-pereira (Felipe Luiz Pereira), from Londrina, Brazil.
 - 👀 I’m interested in barbecue, games and extreme sports.
-- 🌱 I’m currently learning PHP, Java, Flutter && others stuffs.
+- 🌱 I’m currently learning Java && others stuffs.
 - 💞️ I’m looking to collaborate on another dev learning progress.
 - 📫 Stay with me https://www.linkedin.com/in/felipeluizpereira/
 
